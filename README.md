@@ -9,5 +9,5 @@ Note: If you were using the previous version, the input folder name has changed.
 AI Manga Upscale Colab: 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Spladenly/ai-manga-upscale-colab/blob/main/ai-manga-upscale-colab.ipynb)
 
-AI Manga Colab Post-Production Toolset:
+AI Manga Upscale Colab Post-Production Toolset:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Spladenly/ai-manga-upscale-colab/blob/main/post-prod.ipynb)
